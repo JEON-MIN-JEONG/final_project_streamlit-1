@@ -225,10 +225,10 @@ part = load_data_part()
 point = load_data_point()
 
 # 광고참여 데이터 드라이브 주소
-# https://drive.google.com/file/d/1_GyWUTo82dTNfeZb5JKPW8ieuoG0MNSU/view?usp=sharing
+# https://drive.google.com/file/d/1HsR5qstEd9A04yFu1lhz570DVQ3TDN7Q/view?usp=drive_link
 
 # 광고적립 데이터 드라이브 주소
-# https://drive.google.com/file/d/1gcSBM6Cu-21Y6zlGC0qX_h7hqpPxu6H6/view?usp=sharing
+# https://drive.google.com/file/d/1-sTUaLKCsqT0fPTXFwbp7yxyLnVjfead/view?usp=sharing
  
 
 
